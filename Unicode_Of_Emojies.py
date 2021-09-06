@@ -5,10 +5,10 @@ grinning face with smiling eyes :	U+1F604
 beaming face with smiling eyes	: U+1F601
 grinning squinting face	: U+1F606
 grinning face with sweat	: U+1F605
-rolling on the floor laughing	U+1F923
-face with tears of joy	U+1F602
-slightly smiling face	U+1F642
-upside-down face	U+1F643
+rolling on the floor laughing	: U+1F923
+face with tears of joy	: U+1F602
+slightly smiling face	: U+1F642
+upside-down face	: U+1F643
 winking face	U+1F609
 smiling face with smiling eyes	U+1F60A
 smiling face with halo	U+1F607

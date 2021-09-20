@@ -25,16 +25,16 @@ face with tongue	          :)  U+1F61B  (:
 winking face with tongue          :)  U+1F61C  (:
 zany face                         :)  U+1F92A  (: 
 squinting face with tongue        :)  U+1F61D  (:
-money-mouth face	                :)  U+1F911  (:
+money-mouth face	          :)  U+1F911  (:
 hugging face                      :)  U+1F917  (:
 face with hand over mouth         :)  U+1F92D  (:
-shushing face	                    :)  U+1F92B  (:
+shushing face	                  :)  U+1F92B  (:
 thinking face                     :)  U+1F914  (:
 zipper-mouth face                 :)  U+1F910  (:
-face with raised eyebrow	        :)  U+1F928  (:
+face with raised eyebrow          :)  U+1F928  (:
 neutral face	                    :)  U+1F610  (:
 expressionless face	              :)  U+1F611  (:
-face without mouth	              :)  U+1F636  (:
+face without mouth	          :)  U+1F636  (:
 smirking face	                    :)  U+1F60F  (:
 unamused face	                    :)  U+1F612  (:
 face with rolling eyes            :)  U+1F644  (:

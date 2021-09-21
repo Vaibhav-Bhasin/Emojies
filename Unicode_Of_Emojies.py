@@ -33,7 +33,7 @@ thinking face                                                        :)  U+1F914
 zipper-mouth face                                                   :)  U+1F910  (:
 face with raised eyebrow                                          :)  U+1F928  (:
 neutral face	                                                 :)  U+1F610  (:
-expressionless face	                                        :)  U+1F611  (:
+expressionless face	                                      :)  U+1F611  (:
 face without mouth	                                      :)  U+1F636  (:
 smirking face	                                            :)  U+1F60F  (:
 unamused face	                                          :)  U+1F612  (:

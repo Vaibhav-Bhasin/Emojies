@@ -21,7 +21,7 @@ smiling face	                                                        :)  U+263A 
 kissing face with closed eyes                                             :)  U+1F61A  (:
 kissing face with smiling eyes	                                            :)  U+1F619  (:
 face savoring food	                                                      :)  U+1F60B  (:
-face with tongue	                                                        :)  U+1F61B  (:
+face with tongue	                                                    :)  U+1F61B  (:
 winking face with tongue                                                          :)  U+1F61C  (:
 zany face                                                                           :)  U+1F92A  (: 
 squinting face with tongue                                                        :)  U+1F61D  (:

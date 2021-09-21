@@ -38,7 +38,7 @@ face without mouth	                                      :)  U+1F636  (:
 smirking face	                                            :)  U+1F60F  (:
 unamused face	                                          :)  U+1F612  (:
 face with rolling eyes                                  :)  U+1F644  (:
-grimacing face                                        :)  U+1F62C  (:
+grimacing face                                      :)  U+1F62C  (:
 lying face	                                    :)  U+1F925  (:
 relieved face	                                  :)  U+1F60C  (:
 pensive face                                    :)  U+1F614  (:

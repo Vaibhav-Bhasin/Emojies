@@ -24,7 +24,7 @@ face savoring food	                                                      :)  U+1
 face with tongue	                                                    :)  U+1F61B  (:
 winking face with tongue                                                          :)  U+1F61C  (:
 zany face                                                                           :)  U+1F92A  (: 
-squinting face with tongue                                                        :)  U+1F61D  (:
+squinting face with tongue                                                     :)  U+1F61D  (:
 money-mouth face	                                                        :)  U+1F911  (:
 hugging face                                                                 :)  U+1F917  (:
 face with hand over mouth                                                 :)  U+1F92D  (:

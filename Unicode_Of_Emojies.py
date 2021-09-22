@@ -12,16 +12,16 @@ upside-down face	        :                     :)  U+1F643  (:
 winking face	                :                      :)  U+1F609  (:
 smiling face with smiling eyes  :                      :)  U+1F60A  (:
 smiling face with halo	        :            :)  U+1F607  (:
-smiling face with 3 hearts	                          :)  U+1F970  (:
-smiling face with heart-eyes                                    :)  U+1F60D  (:
-star-struck                                                       :)  U+1F929  (:
-face blowing a kiss	                                       :)  U+1F618  (:
-kissing face	                                                   :)  U+1F617  (:
-smiling face	                                                        :)  U+263A   (:
-kissing face with closed eyes                                             :)  U+1F61A  (:
-kissing face with smiling eyes	                                            :)  U+1F619  (:
-face savoring food	                                                      :)  U+1F60B  (:
-face with tongue	                                                    :)  U+1F61B  (:
+smiling face with 3 hearts:                          :)  U+1F970  (:
+smiling face with heart-eyes:                                    :)  U+1F60D  (:
+star-struck                  :                                     :)  U+1F929  (:
+face blowing a kiss	      :                                 :)  U+1F618  (:
+kissing face	               :                                    :)  U+1F617  (:
+smiling face	                :                                        :)  U+263A   (:
+kissing face with closed eyes    :                                         :)  U+1F61A  (:
+kissing face with smiling eyes	  :                                          :)  U+1F619  (:
+face savoring food	           :                                           :)  U+1F60B  (:
+face with tongue	            :                                        :)  U+1F61B  (:
 winking face with tongue                                                          :)  U+1F61C  (:
 zany face                                                                           :)  U+1F92A  (: 
 squinting face with tongue                                                     :)  U+1F61D  (:

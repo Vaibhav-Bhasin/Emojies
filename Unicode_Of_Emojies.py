@@ -33,14 +33,14 @@ thinking face                   :                                     :)  U+1F91
 zipper-mouth face               :                                   :)  U+1F910  (:
 face with raised eyebrow        :                                 :)  U+1F928  (:
 neutral face	                :                               :)  U+1F610  (:
-expressionless face	        :                          :)  U+1F611  (:
-face without mouth	        :                         :)  U+1F636  (:
-smirking face	                :                      :)  U+1F60F  (:
-unamused face	                :                   :)  U+1F612  (:
-face with rolling eyes          :                :)  U+1F644  (:
-grimacing face                  :           :)  U+1F62C  (:
-lying face	                :          :)  U+1F925  (:
-relieved face	                :       :)  U+1F60C  (:
+expressionless face	        :                             :)  U+1F611  (:
+face without mouth	        :                           :)  U+1F636  (:
+smirking face	                :                         :)  U+1F60F  (:
+unamused face	                :                       :)  U+1F612  (:
+face with rolling eyes          :                     :)  U+1F644  (:
+grimacing face                  :                   :)  U+1F62C  (:
+lying face	                :                 :)  U+1F925  (:
+relieved face	                :               :)  U+1F60C  (:
 pensive face                    :    :)  U+1F614  (:
 sleepy face                     : :)  U+1F62A  (:
 drooling face                   :                     :)  U+1F924  (:

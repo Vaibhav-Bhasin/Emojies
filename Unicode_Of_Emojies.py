@@ -26,7 +26,7 @@ winking face with tongue        :                                               
 zany face                       :                                                 :)  U+1F92A  (: 
 squinting face with tongue      :                                                   :)  U+1F61D  (:
 money-mouth face	        :                                                     :)  U+1F911  (:
-hugging face                    :                                               :)  U+1F917  (:
+hugging face                    :                                                       :)  U+1F917  (:
 face with hand over mouth       :                                           :)  U+1F92D  (:
 shushing face	                :                                       :)  U+1F92B  (:
 thinking face                   :                                     :)  U+1F914  (:

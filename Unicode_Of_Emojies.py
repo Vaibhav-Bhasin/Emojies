@@ -45,7 +45,7 @@ pensive face                    :             :)  U+1F614  (:
 sleepy face                     :           :)  U+1F62A  (:
 drooling face                   :         :)  U+1F924  (:
 sleeping face                   :       :)  U+1F634  (:
-face with medical mask          :               :)  U+1F637  (:
+face with medical mask          :     :)  U+1F637  (:
 face with thermometer           :            :)  U+1F912  (:
 face with head-bandage          :         :)  U+1F915  (:
 nauseated face	                ::)  U+1F922  (:
